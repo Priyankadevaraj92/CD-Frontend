@@ -3,7 +3,7 @@ function addTask() {
     var taskText = taskInput.value.trim();
 
     if (taskText === "") {
-        alert("Please enter a task.");
+        alert("Please enter a task here");
         return;
     }
 
